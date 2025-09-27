@@ -26,7 +26,7 @@ Execute the programs and publish them.
 
 ## CODE
 
-map
+map.html
 
 <html>
     <head>
@@ -52,7 +52,8 @@ map
     </center>
     </body>
     </html>
-temple
+
+temple.html
 
 <html>
     <head>
@@ -75,7 +76,7 @@ temple
     </body>
 </html>
 
-atlas
+atlas.html
 
 <html>
     <head>
@@ -98,7 +99,7 @@ atlas
     </body>
 </html>
 
-kovil karur
+kovil karur.html
 
 <html>
     <head>
@@ -121,7 +122,7 @@ kovil karur
     </body>
 </html>
 
-college
+college.html
 
 <html>
     <head>
@@ -144,7 +145,7 @@ college
     </body>
 </html>
 
-clinic
+clinic.html
 
 <html>
     <head>
