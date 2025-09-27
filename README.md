@@ -52,8 +52,7 @@ map.html
     </center>
     </body>
     </html>
-
-temple.html
+temple
 
 <html>
     <head>
@@ -76,7 +75,7 @@ temple.html
     </body>
 </html>
 
-atlas.html
+atlas
 
 <html>
     <head>
@@ -99,7 +98,7 @@ atlas.html
     </body>
 </html>
 
-kovil karur.html
+kovil karur
 
 <html>
     <head>
@@ -122,7 +121,7 @@ kovil karur.html
     </body>
 </html>
 
-college.html
+college
 
 <html>
     <head>
@@ -145,7 +144,7 @@ college.html
     </body>
 </html>
 
-clinic.html
+clinic
 
 <html>
     <head>
