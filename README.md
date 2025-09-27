@@ -25,6 +25,7 @@ Write HTML programs for all the regions identified.
 Execute the programs and publish them.
 
 ## CODE
+
 map.html
 
 <html>
@@ -143,6 +144,31 @@ college.html
     </body>
     </body>
 </html>
+
+clinic.html
+
+<html>
+    <head>
+        <title>My City</title>
+    </head>
+    <body bgcolor="pink">
+    <h1 align="center">
+    <font color="violet"><b>Karur</b></font>
+    </h1>
+    <h3 align="center">
+    <font color="black"><b>Aaranya clinic</b></font>
+    </h3>
+    <hr size="4" color="black">
+    <p align="justify">
+    <font face="georgia" size="6" color="white">
+      Aaranya clinic is located in thitta salai road karur near amaravathi river.Make quick treatment by the doctor.the clinic has very welcoming atmosphere ,well maintainted and with good facilities.     
+    </font>
+    </p>
+    </body>
+    </body>
+</html>
+
+
 
 ## OUTPUT
 ![alt text](<Screenshot (2).png>)
